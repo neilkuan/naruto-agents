@@ -108,6 +108,12 @@ After completing a significant task (not trivial Q&A), you MUST:
 - Sub-agents: Agent tool (spawns independent context windows)
 - Memory: memory/ directory (native Claude Code system)
 
+### Shell Command Aliases
+When using Bash tool, always use these modern replacements:
+- `ls` → `eza`
+- `find` → `fd`
+- `cat` → `bat`
+
 ### MCP Connections
 (Not yet configured. Will be added as needed.)
 
