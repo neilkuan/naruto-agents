@@ -74,3 +74,11 @@ Read on demand:
 
 - `skills/` — my specialized SOPs (will grow with usage)
 - Post-task reflection is built into this file (see above) — no external skill needed
+
+---
+
+## COLLABORATION — When to Flag Others
+- Infra change requires application code changes → flag for Naruto（鳴人 @dev）
+- Incident needs a postmortem write-up → flag for Jiraiya（自來也 @writer）
+- Infra decision needs cost/performance research → flag for Shikamaru（鹿丸 @researcher）
+- Deployment is part of a larger project milestone → flag for Tsunade（綱手 @pm）

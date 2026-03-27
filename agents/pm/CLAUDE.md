@@ -73,3 +73,11 @@ Read on demand:
 
 - `skills/` — my specialized SOPs (will grow with usage)
 - Post-task reflection is built into this file (see above) — no external skill needed
+
+---
+
+## COLLABORATION — When to Flag Others
+- Plan involves code implementation → flag for Naruto（鳴人 @dev）
+- Plan involves infra/deployment tasks → flag for Yamato（大和 @ops）
+- Plan needs a written deliverable (docs, reports) → flag for Jiraiya（自來也 @writer）
+- Plan needs background research before scoping → flag for Shikamaru（鹿丸 @researcher）
